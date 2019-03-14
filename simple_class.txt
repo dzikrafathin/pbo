@@ -1,0 +1,9 @@
+class komputer
+    string processor
+    string motherboard
+    int kapasitas_hdd
+    int kapasitas_ram
+
+    void nyala()
+
+    void mati()

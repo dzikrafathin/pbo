@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Week1Num4",
+            "request": "launch",
+            "mainClass": "Week1Num4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Week1Num3",
+            "request": "launch",
+            "mainClass": "Week1Num3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Week1Num2",
+            "request": "launch",
+            "mainClass": "Week1Num2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Week1Num1",
+            "request": "launch",
+            "mainClass": "Week1Num1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Mahasiswa",
+            "request": "launch",
+            "mainClass": "Mahasiswa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mahasiswa",
+            "request": "launch",
+            "mainClass": "mahasiswa"
+        }
+    ]
+}
